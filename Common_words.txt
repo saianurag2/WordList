@@ -478,3 +478,4 @@ Quilt
 ,
 Chalk
 ,
+axe, bat, bed, blaze, bookshelf, bow, cave spider, chest, chicken, coal, cow, crafting table, creeper, diamond, emerald, enchanting table, enderman, fishing rod, flint and steel, furnace, ghast, gold, helmet, herobrine, hoe, horse, jukebox, magma cube, music disc, nether portal, obsidian, pig, rabbit, shears, sheep, shovel, silverfish, skeleton, slime, spider, squid, Steve, sword, TNT, torch, villager,  witch, wither skeleton, wolf, zombie, zombie pigman, zombie villager,
